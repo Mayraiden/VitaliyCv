@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VitaliyCv/static/css/main.e7ba2c7e.css",
+    "main.js": "/VitaliyCv/static/js/main.70592d33.js",
+    "static/media/Rubik-Light.woff2": "/VitaliyCv/static/media/Rubik-Light.b751b7b484faebf5ced4.woff2",
+    "static/media/Rubik-Regular.woff2": "/VitaliyCv/static/media/Rubik-Regular.040d5873046c2282d7e4.woff2",
+    "static/media/Rubik-Medium.woff2": "/VitaliyCv/static/media/Rubik-Medium.1a451eb85e67cef24085.woff2",
+    "static/media/Rubik-Bold.woff2": "/VitaliyCv/static/media/Rubik-Bold.ae44e5f78e4112427883.woff2",
+    "static/media/sun.svg": "/VitaliyCv/static/media/sun.affe783e86ab6220618fb30cbe8747d7.svg",
+    "static/media/moon.svg": "/VitaliyCv/static/media/moon.9da3012687e8ba2f7c714df89068e839.svg",
+    "index.html": "/VitaliyCv/index.html",
+    "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
+    "main.e7ba2c7e.css.map": "/VitaliyCv/static/css/main.e7ba2c7e.css.map",
+    "main.70592d33.js.map": "/VitaliyCv/static/js/main.70592d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ba2c7e.css",
+    "static/js/main.70592d33.js"
+  ]
+}
