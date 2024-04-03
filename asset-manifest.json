@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/VitaliyCv/static/css/main.54e5c9fc.css",
-    "main.js": "/VitaliyCv/static/js/main.2bf51951.js",
+    "main.css": "/VitaliyCv/static/css/main.d59a7ba6.css",
+    "main.js": "/VitaliyCv/static/js/main.0bc3fc78.js",
+    "static/media/image.png": "/VitaliyCv/static/media/image.ab5b4e7fc7325084e9d4.png",
     "static/media/Rubik-Light.woff2": "/VitaliyCv/static/media/Rubik-Light.b751b7b484faebf5ced4.woff2",
     "static/media/Rubik-Regular.woff2": "/VitaliyCv/static/media/Rubik-Regular.040d5873046c2282d7e4.woff2",
     "static/media/Rubik-Medium.woff2": "/VitaliyCv/static/media/Rubik-Medium.1a451eb85e67cef24085.woff2",
     "static/media/Rubik-Bold.woff2": "/VitaliyCv/static/media/Rubik-Bold.ae44e5f78e4112427883.woff2",
+    "static/media/redux-toolkit.svg": "/VitaliyCv/static/media/redux-toolkit.7f8ad186881613f3f03109c42835fc98.svg",
+    "static/media/redux.svg": "/VitaliyCv/static/media/redux.c675ca3157c09ea0422bc389d9a0c543.svg",
+    "static/media/typescript.svg": "/VitaliyCv/static/media/typescript.0bca439b0c575faa31a49c0b196aa223.svg",
+    "static/media/javascript.svg": "/VitaliyCv/static/media/javascript.33115a51880ccacb7ea799b5bc01e007.svg",
+    "static/media/react-router.svg": "/VitaliyCv/static/media/react-router.589616e12782443922324fe599d0947f.svg",
+    "static/media/vite.svg": "/VitaliyCv/static/media/vite.40f34363669103c04136b12b4159e120.svg",
+    "static/media/webpack.svg": "/VitaliyCv/static/media/webpack.ef2fe2fc5f56d84a7169227727098e3e.svg",
     "static/media/sun.svg": "/VitaliyCv/static/media/sun.affe783e86ab6220618fb30cbe8747d7.svg",
+    "static/media/figma.svg": "/VitaliyCv/static/media/figma.912639b641d51ff204e8dbe70ef1fce3.svg",
     "static/media/moon.svg": "/VitaliyCv/static/media/moon.9da3012687e8ba2f7c714df89068e839.svg",
     "index.html": "/VitaliyCv/index.html",
     "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
-    "main.54e5c9fc.css.map": "/VitaliyCv/static/css/main.54e5c9fc.css.map",
-    "main.2bf51951.js.map": "/VitaliyCv/static/js/main.2bf51951.js.map"
+    "static/media/react.svg": "/VitaliyCv/static/media/react.6cfaa1feed74092383c14dde7b368f3d.svg",
+    "main.d59a7ba6.css.map": "/VitaliyCv/static/css/main.d59a7ba6.css.map",
+    "main.0bc3fc78.js.map": "/VitaliyCv/static/js/main.0bc3fc78.js.map"
   },
   "entrypoints": [
-    "static/css/main.54e5c9fc.css",
-    "static/js/main.2bf51951.js"
+    "static/css/main.d59a7ba6.css",
+    "static/js/main.0bc3fc78.js"
   ]
 }
