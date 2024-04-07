@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VitaliyCv/static/css/main.727710e1.css",
-    "main.js": "/VitaliyCv/static/js/main.bb79e1c4.js",
+    "main.css": "/VitaliyCv/static/css/main.3c2a877a.css",
+    "main.js": "/VitaliyCv/static/js/main.1df35849.js",
     "static/media/volleyball.png": "/VitaliyCv/static/media/volleyball.ab5b4e7fc7325084e9d4.png",
     "static/media/pizza.png": "/VitaliyCv/static/media/pizza.5cd2863da2e11f6f0ab9.png",
     "static/media/positivus.png": "/VitaliyCv/static/media/positivus.e10495211ad216104863.png",
@@ -10,7 +10,9 @@
     "static/media/Rubik-Medium.woff2": "/VitaliyCv/static/media/Rubik-Medium.1a451eb85e67cef24085.woff2",
     "static/media/Rubik-Bold.woff2": "/VitaliyCv/static/media/Rubik-Bold.ae44e5f78e4112427883.woff2",
     "static/media/redux-toolkit.svg": "/VitaliyCv/static/media/redux-toolkit.7f8ad186881613f3f03109c42835fc98.svg",
+    "static/media/gitHub.svg": "/VitaliyCv/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/redux.svg": "/VitaliyCv/static/media/redux.c675ca3157c09ea0422bc389d9a0c543.svg",
+    "static/media/vk.svg": "/VitaliyCv/static/media/vk.50d995925192cd8d018fd04fcd01c3e7.svg",
     "static/media/typescript.svg": "/VitaliyCv/static/media/typescript.0bca439b0c575faa31a49c0b196aa223.svg",
     "static/media/javascript.svg": "/VitaliyCv/static/media/javascript.33115a51880ccacb7ea799b5bc01e007.svg",
     "static/media/scss.svg": "/VitaliyCv/static/media/scss.5f10d71f9a9b7d9bc89452662d3593b1.svg",
@@ -19,6 +21,7 @@
     "static/media/adobe-photoshop.svg": "/VitaliyCv/static/media/adobe-photoshop.681795179eadec819149527f80c6bf43.svg",
     "static/media/webpack.svg": "/VitaliyCv/static/media/webpack.ef2fe2fc5f56d84a7169227727098e3e.svg",
     "static/media/sun.svg": "/VitaliyCv/static/media/sun.affe783e86ab6220618fb30cbe8747d7.svg",
+    "static/media/tg.svg": "/VitaliyCv/static/media/tg.67db78d0f1ea909effe324b810776cdd.svg",
     "static/media/css.svg": "/VitaliyCv/static/media/css.42e882bdb472bb5e6072d8c8dcb950e9.svg",
     "static/media/html.svg": "/VitaliyCv/static/media/html.d045e5738b2d452dc98504bb68c0da22.svg",
     "static/media/figma.svg": "/VitaliyCv/static/media/figma.912639b641d51ff204e8dbe70ef1fce3.svg",
@@ -26,11 +29,11 @@
     "index.html": "/VitaliyCv/index.html",
     "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
     "static/media/react.svg": "/VitaliyCv/static/media/react.6cfaa1feed74092383c14dde7b368f3d.svg",
-    "main.727710e1.css.map": "/VitaliyCv/static/css/main.727710e1.css.map",
-    "main.bb79e1c4.js.map": "/VitaliyCv/static/js/main.bb79e1c4.js.map"
+    "main.3c2a877a.css.map": "/VitaliyCv/static/css/main.3c2a877a.css.map",
+    "main.1df35849.js.map": "/VitaliyCv/static/js/main.1df35849.js.map"
   },
   "entrypoints": [
-    "static/css/main.727710e1.css",
-    "static/js/main.bb79e1c4.js"
+    "static/css/main.3c2a877a.css",
+    "static/js/main.1df35849.js"
   ]
 }
