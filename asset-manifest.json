@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VitaliyCv/static/css/main.d8d8f75f.css",
+    "main.css": "/VitaliyCv/static/css/main.2e138a9a.css",
     "main.js": "/VitaliyCv/static/js/main.1df35849.js",
     "static/media/volleyball.png": "/VitaliyCv/static/media/volleyball.ab5b4e7fc7325084e9d4.png",
     "static/media/pizza.png": "/VitaliyCv/static/media/pizza.5cd2863da2e11f6f0ab9.png",
@@ -29,11 +29,11 @@
     "index.html": "/VitaliyCv/index.html",
     "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
     "static/media/react.svg": "/VitaliyCv/static/media/react.6cfaa1feed74092383c14dde7b368f3d.svg",
-    "main.d8d8f75f.css.map": "/VitaliyCv/static/css/main.d8d8f75f.css.map",
+    "main.2e138a9a.css.map": "/VitaliyCv/static/css/main.2e138a9a.css.map",
     "main.1df35849.js.map": "/VitaliyCv/static/js/main.1df35849.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8d8f75f.css",
+    "static/css/main.2e138a9a.css",
     "static/js/main.1df35849.js"
   ]
 }
