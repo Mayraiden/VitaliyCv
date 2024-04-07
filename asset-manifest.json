@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/VitaliyCv/static/css/main.833ca41f.css",
-    "main.js": "/VitaliyCv/static/js/main.b3cf44e2.js",
-    "static/media/image.png": "/VitaliyCv/static/media/image.ab5b4e7fc7325084e9d4.png",
+    "main.css": "/VitaliyCv/static/css/main.727710e1.css",
+    "main.js": "/VitaliyCv/static/js/main.bb79e1c4.js",
+    "static/media/volleyball.png": "/VitaliyCv/static/media/volleyball.ab5b4e7fc7325084e9d4.png",
+    "static/media/pizza.png": "/VitaliyCv/static/media/pizza.5cd2863da2e11f6f0ab9.png",
+    "static/media/positivus.png": "/VitaliyCv/static/media/positivus.e10495211ad216104863.png",
     "static/media/Rubik-Light.woff2": "/VitaliyCv/static/media/Rubik-Light.b751b7b484faebf5ced4.woff2",
     "static/media/Rubik-Regular.woff2": "/VitaliyCv/static/media/Rubik-Regular.040d5873046c2282d7e4.woff2",
     "static/media/Rubik-Medium.woff2": "/VitaliyCv/static/media/Rubik-Medium.1a451eb85e67cef24085.woff2",
@@ -11,20 +13,24 @@
     "static/media/redux.svg": "/VitaliyCv/static/media/redux.c675ca3157c09ea0422bc389d9a0c543.svg",
     "static/media/typescript.svg": "/VitaliyCv/static/media/typescript.0bca439b0c575faa31a49c0b196aa223.svg",
     "static/media/javascript.svg": "/VitaliyCv/static/media/javascript.33115a51880ccacb7ea799b5bc01e007.svg",
+    "static/media/scss.svg": "/VitaliyCv/static/media/scss.5f10d71f9a9b7d9bc89452662d3593b1.svg",
     "static/media/react-router.svg": "/VitaliyCv/static/media/react-router.589616e12782443922324fe599d0947f.svg",
     "static/media/vite.svg": "/VitaliyCv/static/media/vite.40f34363669103c04136b12b4159e120.svg",
+    "static/media/adobe-photoshop.svg": "/VitaliyCv/static/media/adobe-photoshop.681795179eadec819149527f80c6bf43.svg",
     "static/media/webpack.svg": "/VitaliyCv/static/media/webpack.ef2fe2fc5f56d84a7169227727098e3e.svg",
     "static/media/sun.svg": "/VitaliyCv/static/media/sun.affe783e86ab6220618fb30cbe8747d7.svg",
+    "static/media/css.svg": "/VitaliyCv/static/media/css.42e882bdb472bb5e6072d8c8dcb950e9.svg",
+    "static/media/html.svg": "/VitaliyCv/static/media/html.d045e5738b2d452dc98504bb68c0da22.svg",
     "static/media/figma.svg": "/VitaliyCv/static/media/figma.912639b641d51ff204e8dbe70ef1fce3.svg",
     "static/media/moon.svg": "/VitaliyCv/static/media/moon.9da3012687e8ba2f7c714df89068e839.svg",
     "index.html": "/VitaliyCv/index.html",
     "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
     "static/media/react.svg": "/VitaliyCv/static/media/react.6cfaa1feed74092383c14dde7b368f3d.svg",
-    "main.833ca41f.css.map": "/VitaliyCv/static/css/main.833ca41f.css.map",
-    "main.b3cf44e2.js.map": "/VitaliyCv/static/js/main.b3cf44e2.js.map"
+    "main.727710e1.css.map": "/VitaliyCv/static/css/main.727710e1.css.map",
+    "main.bb79e1c4.js.map": "/VitaliyCv/static/js/main.bb79e1c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.833ca41f.css",
-    "static/js/main.b3cf44e2.js"
+    "static/css/main.727710e1.css",
+    "static/js/main.bb79e1c4.js"
   ]
 }
