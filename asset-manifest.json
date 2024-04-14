@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/VitaliyCv/static/css/main.75d1c805.css",
-    "main.js": "/VitaliyCv/static/js/main.1df35849.js",
-    "static/media/volleyball.png": "/VitaliyCv/static/media/volleyball.ab5b4e7fc7325084e9d4.png",
+    "main.js": "/VitaliyCv/static/js/main.1acabca8.js",
     "static/media/pizza.png": "/VitaliyCv/static/media/pizza.5cd2863da2e11f6f0ab9.png",
+    "static/media/volleyball.png": "/VitaliyCv/static/media/volleyball.1d85ce41d65524885f0c.png",
     "static/media/positivus.png": "/VitaliyCv/static/media/positivus.e10495211ad216104863.png",
     "static/media/Rubik-Light.woff2": "/VitaliyCv/static/media/Rubik-Light.b751b7b484faebf5ced4.woff2",
     "static/media/Rubik-Regular.woff2": "/VitaliyCv/static/media/Rubik-Regular.040d5873046c2282d7e4.woff2",
@@ -30,10 +30,10 @@
     "static/media/blob_12-8-930126.svg": "/VitaliyCv/static/media/blob_12-8-930126.a356186b0252e8dde2902b1c62f6a984.svg",
     "static/media/react.svg": "/VitaliyCv/static/media/react.6cfaa1feed74092383c14dde7b368f3d.svg",
     "main.75d1c805.css.map": "/VitaliyCv/static/css/main.75d1c805.css.map",
-    "main.1df35849.js.map": "/VitaliyCv/static/js/main.1df35849.js.map"
+    "main.1acabca8.js.map": "/VitaliyCv/static/js/main.1acabca8.js.map"
   },
   "entrypoints": [
     "static/css/main.75d1c805.css",
-    "static/js/main.1df35849.js"
+    "static/js/main.1acabca8.js"
   ]
 }
